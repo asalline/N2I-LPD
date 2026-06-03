@@ -5,6 +5,5 @@ authors:
     given-names: Antti
 title: "Noise2Inverse Learned Primal-Dual"
 version: 1.0
-identifiers:
-  - {\url{https://github.com/asalline/N2I-LPD}}
 date-released: 2026-06-03
+url: https://github.com/asalline/N2I-LPD
