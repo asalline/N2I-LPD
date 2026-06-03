@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this Github repository if the code is used."
+authors:
+  - family-names: Sällinen
+    given-names: Antti
+title: "Noise2Inverse Learned Primal-Dual"
+version: 1.0
+identifiers:
+date-released: 2021-08-11
